@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1, 
+    "title": "My First Event", 
+    "owner": "Felix Avelar", 
+    "start": "2019-04-18",
+    "end": "2019-04-18"
+  },
+  {
+    "id": 2, 
+    "title": "Event 1", 
+    "owner": "Felix Avelar", 
+    "start": "2019-04-01",
+    "end": "2019-04-02"
+  },
+  {
+    "id": 3, 
+    "title": "Event 2", 
+    "owner": "Camila Avelar", 
+    "start": "2019-04-04",
+    "end": "2019-04-04"
+  },
+  {
+    "id": 4, 
+    "title": "Event 3", 
+    "owner": "Brenda de Avelar", 
+    "start": "2019-04-10"
+  },
+  {
+    "id": 5, 
+    "title": "Event 4", 
+    "owner": "Felix Avelar", 
+    "start": "2019-04-15",
+    "end": "2019-04-15"
+  }
+]
